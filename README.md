@@ -1,6 +1,6 @@
 # melodiq
 
-A new Flutter project.
+A new Flutter project, music player Application
 
 ## Getting Started
 
